@@ -1,0 +1,16 @@
+streamlit>=1.32
+openai-whisper
+torch
+spacy>=3.7
+textblob
+librosa
+soundfile
+scikit-learn
+pandas
+matplotlib
+numpy
+tabulate
+unidecode
+indic-transliteration
+groq
+python-dotenv
