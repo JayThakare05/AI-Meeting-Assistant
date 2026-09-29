@@ -14,3 +14,4 @@ unidecode
 indic-transliteration
 groq
 python-dotenv
+pyannote.audio
